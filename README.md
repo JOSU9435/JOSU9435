@@ -34,6 +34,10 @@ Gender: male<br>
   <code><img height="150" src="https://github-readme-stats.vercel.app/api?username=JOSU9435&count_private=t&hide=stars&theme=cobalt"></code>
 </div>
 
+# My achivements
 
+- 🏆 Second Runner-up of NITS Cyberbot 4.0, 2021
+- 3rd place in NITS Algochemy 4.0, 2021
+- Finalist in NITS CSS Hacks 2.0, 2021 (One of the two first-year finalist teams)
 
 
