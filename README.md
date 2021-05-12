@@ -10,9 +10,8 @@ Gender: male<br>
 
 ### Contact me:
 <br>
-<code><a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=palsaurav.2020@gmail.com&tf=1"><img height="35" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"></a></code>
-<code><a title="LinkedIn" href="https://www.linkedin.com/in/resyfer/"><img  height="35" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"></a></code>
-<code><a title="Facebook" href="https://www.facebook.com/resyfer17/"><img  height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png"></a></code>
+<code><a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kamalnetra702@gmail.com&tf=1"><img height="35" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"></a></code>
+<code><a title="Facebook" href="https://www.facebook.com/netrakamal.barua/"><img  height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png"></a></code>
 <hr>
 
 ## My skills
@@ -34,7 +33,7 @@ Gender: male<br>
   <code><img height="150" src="https://github-readme-stats.vercel.app/api?username=JOSU9435&count_private=t&hide=stars&theme=cobalt"></code>
 </div>
 
-# My achivements
+# My Achievements
 
 - 🏆 Second Runner-up of NITS Cyberbot 4.0, 2021
 - 3rd place in NITS Algochemy 4.0, 2021
