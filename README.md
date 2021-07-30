@@ -35,8 +35,8 @@ Gender: male<br>
   <br/>
   <br/>
   <p align="center">
-    <span><img height="180" alt="JOSU9435's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JOSU9435&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /><span/>
-    <span><img height="180" alt="JOSU9435's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSU9435&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /><span/>
+    <span><img height="160" alt="JOSU9435's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JOSU9435&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /><span/>
+    <span><img height="160" alt="JOSU9435's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSU9435&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /><span/>
   <p/>
       
 <p align="center">
@@ -51,8 +51,8 @@ Gender: male<br>
 ## Connect with me:
 
 <div align="">
-  <a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kamalnetra702@gmail.com&tf=1"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>&emsp;&emsp;
-  <a title="Facebook" href="https://www.facebook.com/netrakamal.barua/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+  <a title="Gmail" target="_blank" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kamalnetra702@gmail.com&tf=1"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>&emsp;&emsp;
+  <a title="Facebook" target="_blank" href="https://www.facebook.com/netrakamal.barua/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 </div>
  
 ## ❤ Views and Followers
