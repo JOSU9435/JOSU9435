@@ -51,8 +51,8 @@ Gender: male<br>
 ## Connect with me:
 
 <div align="">
-  <a title="Gmail" target="_blank" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kamalnetra702@gmail.com&tf=1"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>&emsp;&emsp;
-  <a title="Facebook" target="_blank" href="https://www.facebook.com/netrakamal.barua/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+  <a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kamalnetra702@gmail.com&tf=1" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>&emsp;&emsp;
+  <a title="Facebook" href="https://www.facebook.com/netrakamal.barua/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 </div>
  
 ## ❤ Views and Followers
