@@ -4,7 +4,7 @@
 
 I am a Computer Science and Engineering Undergraduate student at <b>[National Institute of Technology Silchar](http://www.nits.ac.in)</b>
 
-Age: 18 <br>
+Age: 20 <br>
 Gender: male<br>
 
 ## 🚀 Languages and Tools:<br>
