@@ -2,9 +2,9 @@
 
 ## 🙋‍♂️ About Me
 
-I am a Computer Science and Engineering Undergraduate student at <b>[National Institute of Technology Silchar](http://www.nits.ac.in)</b>
+I am a Computer Science and Engineering Undergraduate from <b>[National Institute of Technology Silchar](http://www.nits.ac.in)</b>
 
-Age: 20 <br>
+Age: 21 <br>
 Gender: male<br>
 
 ## 🚀 Languages and Tools:<br>
@@ -26,12 +26,6 @@ Gender: male<br>
 </p>
 
 <br><br>
-
-# My Achievements
-
-- 🏆 Second Runner-up of NITS Cyberbot 4.0, 2021
-- 3rd place in NITS Algochemy 4.0, 2021
-- Finalist in NITS CSS Hacks 2.0, 2021 (One of the two first-year finalist teams)
 
 ## 📊 My Github Stats
 
